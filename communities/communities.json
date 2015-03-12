@@ -35,15 +35,15 @@
   },
   {
     "name": "Moers",
-    "url": "",
-    "map": "http://map.freifunk-ruhrgebiet.de/WES/",
-    "prefix": "FF-WES-",
+    "url": "https://www.facebook.com/FreifunkMoers",
+    "map": "http://map.freifunk-ruhrgebiet.de/MO/",
+    "prefix": "FF-MO-",
     "contacts": [
       {
         "firstname": "Marvin",
         "lastname": "Schulte",
         "nickname": "",
-        "mail": "marvin.schulte@miniworld-it.de"
+        "mail": "marvin.schulte@freifunk-moers.de"
       }
     ]
   },
